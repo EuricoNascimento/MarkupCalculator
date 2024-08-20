@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MarkupCalculator</string>
+    <string name="add_field">Adicionar Campo</string>
+    <string name="remove_field">Remover campo</string>
+    <string name="insert_value">Insira o valor da despesa</string>
+    <string name="profit_margin">Margem de Lucro (%)</string>
+    <string name="product_cost">Custo do Produto</string>
+</resources>
