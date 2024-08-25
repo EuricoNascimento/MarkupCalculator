@@ -6,12 +6,9 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
-import androidx.compose.material3.Text
-import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.tooling.preview.Preview
+import com.euriconeto.markupcalculator.ui.di.sharedModule
 import com.euriconeto.markupcalculator.ui.screen.MarkupScreen
 import com.euriconeto.markupcalculator.ui.theme.MarkupCalculatorTheme
 import org.koin.core.context.startKoin

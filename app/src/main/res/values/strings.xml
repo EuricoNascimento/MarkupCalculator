@@ -3,6 +3,12 @@
     <string name="add_field">Adicionar Campo</string>
     <string name="remove_field">Remover campo</string>
     <string name="insert_value">Insira o valor da despesa</string>
-    <string name="profit_margin">Margem de Lucro (%)</string>
-    <string name="product_cost">Custo do Produto</string>
+    <string name="profit_margin">Lucro (%)</string>
+    <string name="product_cost">Valor de Custo</string>
+    <string name="product_value">Valor do Produto</string>
+    <string name="markup_divider">Markup Divisor</string>
+    <string name="markup_multiplier">Markup Multipli.</string>
+    <string name="calculate">Calcular valor do produto</string>
+    <string name="calculate_markup">Calculadora Markup</string>
+    <string name="error_message">Error: Valores inválidos</string>
 </resources>
