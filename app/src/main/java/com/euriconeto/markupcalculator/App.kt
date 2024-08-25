@@ -1,7 +1,7 @@
-package com.euriconeto.markupcalculator.ui
+package com.euriconeto.markupcalculator
 
 import android.app.Application
-import com.euriconeto.markupcalculator.sharedModule
+import com.euriconeto.markupcalculator.ui.di.sharedModule
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.context.startKoin
 
