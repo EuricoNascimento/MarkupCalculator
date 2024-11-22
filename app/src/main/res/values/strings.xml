@@ -1,14 +1,19 @@
 <resources>
     <string name="app_name">MarkupCalculator</string>
-    <string name="add_field">Adicionar Campo</string>
-    <string name="remove_field">Remover campo</string>
+    <string name="edit_markup">Editar Markup</string>
+    <string name="remove_markup">Deletar Markup</string>
     <string name="insert_value">Insira o valor da despesa</string>
     <string name="profit_margin">Lucro (%)</string>
     <string name="product_cost">Valor de Custo</string>
-    <string name="product_value">Valor do Produto</string>
+    <string name="product_value">Valor de venda</string>
     <string name="markup_divider">Markup Divisor</string>
     <string name="markup_multiplier">Markup Multipli.</string>
-    <string name="calculate">Calcular valor do produto</string>
+    <string name="calculate">Calcular valor de venda</string>
     <string name="calculate_markup">Calculadora Markup</string>
-    <string name="error_message">Error: Valores inválidos</string>
+    <string name="error_message">Valores inválidos</string>
+    <string name="multiplier">Multiplicador</string>
+    <string name="divider">Divisor</string>
+    <string name="clear_screen">Limpar</string>
+    <string name="save_markup">Salvar</string>
+    <string name="save_question_text">Insira o nome do markup para salvar:</string>
 </resources>
